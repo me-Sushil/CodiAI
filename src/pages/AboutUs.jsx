@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const teamMembers = [
   { name: "Sushil Bishowkarma", role: "CEO & AI Ethics Lead", avatar: "👩‍💼" },
   { name: "Aashis Bro", role: "Chief Architect (ML)", avatar: "👨‍💻" },
-  { name: "Mohamad Ali", role: "Head of Experience", avatar: "👩‍🎨" },
+  { name: "Section F Students", role: "Head of Experience", avatar: "👩‍🎨" },
   { name: "Laxmi Sis", role: "Lead Data Scientist", avatar: "👨‍🔬" },
 ];
 
